@@ -103,9 +103,11 @@ These rules demonstrate strong and interpretable relationships between drainage 
   - Produces interpretable and explainable rules
   - Complements computer vision-based drainage detection
   - Low computational complexity and easy deployment
+
 **Limitations:**
   - Dataset is synthetic and based on simulated observations
   - Rules reflect observed patterns rather than predictive generalization
+
 **Insights:**
   - Flow behavior is a stronger indicator of clogging than visual appearance alone
   - Backflow and stagnant water consistently imply severe clogging
