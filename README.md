@@ -101,7 +101,6 @@ These rules demonstrate strong and interpretable relationships between drainage 
 ## Discussion
 **Strengths:**
   - Produces interpretable and explainable rules
-  - Complements computer vision-based drainage detection
   - Low computational complexity and easy deployment
 
 **Limitations:**
